@@ -2,7 +2,8 @@
 A Python library for food web analysis
 
 Author: Miguel Lurgi
-Developed at the Centre for Ecological Research and Forestry Applications (CREAF)
+
+Developed at the **Centre for Ecological Research and Forestry Applications (CREAF), Barcelona, Spain**
 
 This library was developed to analyse the food webs of the vertebrate communities in mountain ecosystems of the Pyrenees through time to determine the effects of climate warming on food web structure. The results of this study was published in:
 
